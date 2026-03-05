@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started :
 
-- 🔭 I’m currently working on a project based on LLM and UI UX designs
+- 🔭 I’m currently working on the projects based on LLMs and UI UX designs.
 - 🌱 I’m currently learning Engineering on Computer Science and Design.
 - 👯 I’m looking to collaborate on Projects based on designing and beginner to intermediate level Java and Python coding.
 - 🤔 I’m looking for help with anyone on my domain or any domain, I just wanna explore stuff.
