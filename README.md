@@ -10,4 +10,4 @@ Here are some ideas to get you started :
 - 🤔 I’m looking for help with anyone on my domain or any domain, I just wanna explore stuff.
 - 📫 How to reach me: By mail - deepak.24csd@sonatech.ac.in
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm just another newbie....!!!
+- ⚡ Fun fact: I'm just another newbie....!!!!
